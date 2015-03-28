@@ -1,4 +1,4 @@
-require "do_sinatra/version"
+require 'do_sinatra/version'
 
 module DoSinatra
   # Your code goes here...
